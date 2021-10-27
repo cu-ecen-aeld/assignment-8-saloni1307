@@ -9,8 +9,8 @@
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-saloni1307.git'
-AESD_ASSIGNMENTS_VERSION = $(shell git ls-remote $(AESD_ASSIGNMENTS_SITE) master | cut -f1)
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-saloni1307.git
+AESD_ASSIGNMENTS_VERSION = b56dd25440fc90d7539be75586657e112831e0aa
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
