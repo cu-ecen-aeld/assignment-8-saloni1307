@@ -9,7 +9,7 @@
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-saloni1307.git'
-AESD_CHAR_DRIVER_VERSION = b56dd25440fc90d7539be75586657e112831e0aa
+AESD_CHAR_DRIVER_VERSION = 59b919f7e07a2566ef79bd750e324bac133aa1f6
 AESD_CHAR_DRIVER_SITE_METHOD = git
 AESD_CHAR_DRIVER_GIT_SUBMODULES = YES
 
