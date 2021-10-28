@@ -10,7 +10,7 @@
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-saloni1307.git
-AESD_ASSIGNMENTS_VERSION = b20c27af3f19eb2347664a984960c5cc87842d0d
+AESD_ASSIGNMENTS_VERSION = c3938f38874ade775fa5dc688cade2b4910151a6
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
